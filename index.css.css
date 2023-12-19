@@ -1,0 +1,128 @@
+*{
+   padding: 0;
+   margin: 0;
+    
+}
+
+.navbar{
+    background-color: rgb(188, 237, 184);
+
+}
+.navbar.active{
+    box-shadow: 1px 0px 4px  rgb(152, 152, 151);
+}
+
+
+
+
+.name{
+    text-decoration: none;
+    margin-left: 70px;
+    padding: 5px;
+    color: black;
+   
+}
+
+.banner{
+    background-color: rgb(188, 237, 184);
+    color: rgb(47, 45, 45);
+    
+}
+
+.banner1{
+    position: relative;
+    top: 50px;
+    line-height: 18px;
+    font-size: 13px;
+}
+
+.banner1 h2{
+    color: black;
+}
+
+.skill{
+    background-color:  rgb(188, 237, 184);
+}
+
+.skill1{
+    background-color: rgb(235, 68, 68);
+}
+
+.skill2{
+    background-color: rgb(26, 130, 200);
+}
+
+.skill3{
+    background-color: rgb(223, 230, 13);
+}
+
+.contact h1{
+    text-align: center;
+}
+
+.box_01{
+    background-color:  rgb(188, 237, 184);
+}
+
+.box input{
+    box-shadow: 3px 1px 5px 0px;
+}
+
+.box textarea{
+    
+        box-shadow: 3px 1px 5px 0px;
+    
+}
+
+.footer{
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+
+.footer1 h1{
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+/*/////////////////
+
+.form-box {
+    max-width: 491px;
+    padding: 16px;
+    margin-top:40px
+
+}
+  
+input[type=text], input[type=number] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 20px 0;
+    border: none;
+    background: #f1f1f1;
+}
+.textarea{
+    background: #f1f1f1;
+    border:none;
+    padding: 12px;
+    width: 460px;
+
+}
+.send {
+    width: 100%;
+    opacity: 0.9;
+    margin-top:10px;
+}
+
+
+
+
+
+
+
+
+
+   
+
+
